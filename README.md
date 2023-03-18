@@ -4,7 +4,9 @@ This project is a part of the [Azubi Africa Data Analytics Professional Program]
 #### -- Project Status: [Completed]
 
 ## Project Intro/Objective
-The purpose of this project is to find the likelihood of a customer leaving the organization, the key indicators of churn as well as the retention strategies that can be implemented to avert this problem.
+The project focuses on a telco company and it's clients.
+
+The purpose of this project is to find the likelihood of a customer leaving the organization, finding the key indicators of churn as well as the retention strategies that can be implemented to avert this problem.
 
 
 ### Methods Used
