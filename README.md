@@ -1,5 +1,5 @@
 # Customer Churn Prediction
-This project is a part of the [Azubi Africa Data Analytics Professional Program](https://cloud-school.thinkific.com/courses/ds-career-accelerator-lp3-classification-project)  Other projects can be found at the [main GitHub repo](https://github.com/muchaimaryanne?tab=repositories).
+This project is a part of the [Azubi Africa Data Analytics Professional Program](https://www.azubiafrica.org/data-analytics) Other projects can be found at the [main GitHub repo](https://github.com/muchaimaryanne?tab=repositories).
 
 #### -- Project Status: [Completed]
 
